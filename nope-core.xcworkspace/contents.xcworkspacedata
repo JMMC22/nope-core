@@ -4,4 +4,7 @@
    <FileRef
       location = "group:ExampleApp/ExampleApp.xcodeproj">
    </FileRef>
+   <FileRef
+      location = "group:nope-analytics">
+   </FileRef>
 </Workspace>

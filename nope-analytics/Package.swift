@@ -5,16 +5,14 @@ import PackageDescription
 
 let package = Package(
     name: "nope-analytics",
+    platforms: [.iOS(.v16)],
     products: [
-        // Products define the executables and libraries a package produces, making them visible to other packages.
         .library(
             name: "nope-analytics",
             targets: ["nope-analytics"]
         ),
     ],
     targets: [
-        // Targets are the basic building blocks of a package, defining a module or a test suite.
-        // Targets can depend on other targets in this package and products from dependencies.
         .target(
             name: "nope-analytics"
         ),

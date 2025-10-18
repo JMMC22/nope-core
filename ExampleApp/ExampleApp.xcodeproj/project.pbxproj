@@ -101,7 +101,6 @@
 			mainGroup = AF4CF02D2EA3B80000AD6CCA;
 			minimizedProjectReferenceProxies = 1;
 			packageReferences = (
-				AF4CF04A2EA3B89F00AD6CCA /* XCLocalSwiftPackageReference "../nope-analytics" */,
 			);
 			preferredProjectObjectVersion = 77;
 			productRefGroup = AF4CF0372EA3B80000AD6CCA /* Products */;
@@ -360,13 +359,6 @@
 			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
-
-/* Begin XCLocalSwiftPackageReference section */
-		AF4CF04A2EA3B89F00AD6CCA /* XCLocalSwiftPackageReference "../nope-analytics" */ = {
-			isa = XCLocalSwiftPackageReference;
-			relativePath = "../nope-analytics";
-		};
-/* End XCLocalSwiftPackageReference section */
 
 /* Begin XCSwiftPackageProductDependency section */
 		AF4CF04B2EA3B89F00AD6CCA /* nope-analytics */ = {

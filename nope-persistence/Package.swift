@@ -4,21 +4,21 @@
 import PackageDescription
 
 let package = Package(
-    name: "nope-analytics",
+    name: "nope-persistence",
     platforms: [.iOS(.v17)],
     products: [
         .library(
-            name: "nope-analytics",
-            targets: ["nope-analytics"]
+            name: "nope-persistence",
+            targets: ["nope-persistence"]
         ),
     ],
     targets: [
         .target(
-            name: "nope-analytics"
+            name: "nope-persistence"
         ),
         .testTarget(
-            name: "nope-analyticsTests",
-            dependencies: ["nope-analytics"]
+            name: "nope-persistenceTests",
+            dependencies: ["nope-persistence"]
         ),
     ]
 )

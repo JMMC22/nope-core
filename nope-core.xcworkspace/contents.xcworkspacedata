@@ -2,10 +2,17 @@
 <Workspace
    version = "1.0">
    <FileRef
-      location = "group:nope-analytics">
+      location = "group:Package.swift">
    </FileRef>
+   <Group
+      location = "group:Sources"
+      name = "Sources">
+      <FileRef
+         location = "group:NopeCore.swift">
+      </FileRef>
+   </Group>
    <FileRef
-      location = "group:nope-core">
+      location = "group:nope-analytics">
    </FileRef>
    <FileRef
       location = "group:nope-notifications">

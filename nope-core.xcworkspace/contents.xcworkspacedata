@@ -2,10 +2,10 @@
 <Workspace
    version = "1.0">
    <FileRef
-      location = "group:ExampleApp/ExampleApp.xcodeproj">
+      location = "group:nope-analytics">
    </FileRef>
    <FileRef
-      location = "group:nope-analytics">
+      location = "group:nope-core">
    </FileRef>
    <FileRef
       location = "group:nope-notifications">

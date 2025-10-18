@@ -9,6 +9,7 @@ let package = Package(
     products: [
         .library(
             name: "nope-persistence",
+            type: .static,
             targets: ["nope-persistence"]
         ),
     ],

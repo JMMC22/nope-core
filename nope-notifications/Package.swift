@@ -9,6 +9,7 @@ let package = Package(
     products: [
         .library(
             name: "nope-notifications",
+            type: .static,
             targets: ["nope-notifications"]
         ),
     ],

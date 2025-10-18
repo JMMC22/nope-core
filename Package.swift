@@ -5,7 +5,7 @@ import PackageDescription
 
 let package = Package(
     name: "nope-core",
-    platforms: [.iOS(.v17)],
+    platforms: [.iOS(.v17), .macOS(.v14)],
     products: [
         .library(
             name: "nope-core",
@@ -14,9 +14,9 @@ let package = Package(
         ),
     ],
     dependencies: [
-        .package(path: "../nope-analytics"),
-        .package(path: "../nope-notifications"),
-        .package(path: "../nope-persistence"),
+        .package(path: "./nope-analytics"),
+        .package(path: "./nope-notifications"),
+        .package(path: "./nope-persistence"),
     ],
     targets: [
         .target(

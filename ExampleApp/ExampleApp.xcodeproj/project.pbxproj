@@ -6,6 +6,10 @@
 	objectVersion = 77;
 	objects = {
 
+/* Begin PBXBuildFile section */
+		AF4CF04C2EA3B89F00AD6CCA /* nope-analytics in Frameworks */ = {isa = PBXBuildFile; productRef = AF4CF04B2EA3B89F00AD6CCA /* nope-analytics */; };
+/* End PBXBuildFile section */
+
 /* Begin PBXFileReference section */
 		AF4CF0362EA3B80000AD6CCA /* ExampleApp.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = ExampleApp.app; sourceTree = BUILT_PRODUCTS_DIR; };
 /* End PBXFileReference section */
@@ -23,6 +27,7 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				AF4CF04C2EA3B89F00AD6CCA /* nope-analytics in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -65,6 +70,7 @@
 			);
 			name = ExampleApp;
 			packageProductDependencies = (
+				AF4CF04B2EA3B89F00AD6CCA /* nope-analytics */,
 			);
 			productName = ExampleApp;
 			productReference = AF4CF0362EA3B80000AD6CCA /* ExampleApp.app */;
@@ -94,6 +100,9 @@
 			);
 			mainGroup = AF4CF02D2EA3B80000AD6CCA;
 			minimizedProjectReferenceProxies = 1;
+			packageReferences = (
+				AF4CF04A2EA3B89F00AD6CCA /* XCLocalSwiftPackageReference "../nope-analytics" */,
+			);
 			preferredProjectObjectVersion = 77;
 			productRefGroup = AF4CF0372EA3B80000AD6CCA /* Products */;
 			projectDirPath = "";
@@ -351,6 +360,20 @@
 			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
+
+/* Begin XCLocalSwiftPackageReference section */
+		AF4CF04A2EA3B89F00AD6CCA /* XCLocalSwiftPackageReference "../nope-analytics" */ = {
+			isa = XCLocalSwiftPackageReference;
+			relativePath = "../nope-analytics";
+		};
+/* End XCLocalSwiftPackageReference section */
+
+/* Begin XCSwiftPackageProductDependency section */
+		AF4CF04B2EA3B89F00AD6CCA /* nope-analytics */ = {
+			isa = XCSwiftPackageProductDependency;
+			productName = "nope-analytics";
+		};
+/* End XCSwiftPackageProductDependency section */
 	};
 	rootObject = AF4CF02E2EA3B80000AD6CCA /* Project object */;
 }

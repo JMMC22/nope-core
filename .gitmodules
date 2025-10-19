@@ -1,0 +1,3 @@
+[submodule "nope-network"]
+	path = nope-network
+	url = https://github.com/JMMC22/nope-network

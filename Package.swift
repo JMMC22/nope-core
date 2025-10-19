@@ -21,6 +21,7 @@ let package = Package(
                 "nope-analytics",
                 "nope-notifications",
                 "nope-persistence",
+                "nope-network",
             ],
             path: "Sources"
         ),
@@ -53,6 +54,16 @@ let package = Package(
             name: "nope-persistence-tests",
             dependencies: ["nope-persistence"],
             path: "nope-persistence/Tests"
+        ),
+        .target(
+            name: "nope-network",
+            dependencies: [],
+            path: "nope-network/Sources"
+        ),
+        .testTarget(
+            name: "nope-network-tests",
+            dependencies: ["nope-network"],
+            path: "nope-network/Tests"
         ),
     ]
 )

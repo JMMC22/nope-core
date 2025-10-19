@@ -6,6 +6,7 @@
 //
 
 @_exported import nope_analytics
+@_exported import nope_network
 @_exported import nope_notifications
 @_exported import nope_persistence
 

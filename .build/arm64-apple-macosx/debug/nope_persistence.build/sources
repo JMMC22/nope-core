@@ -1,0 +1,8 @@
+/Users/josemariamarquez/Documents/JM/repositories/nope-core/nope-persistence/Sources/Data/BaseRepository.swift
+/Users/josemariamarquez/Documents/JM/repositories/nope-core/nope-persistence/Sources/Domain/Repository.swift
+/Users/josemariamarquez/Documents/JM/repositories/nope-core/nope-persistence/Sources/Extensions/ModelContext+Delete.swift
+/Users/josemariamarquez/Documents/JM/repositories/nope-core/nope-persistence/Sources/Extensions/ModelContext+DiscardChanges.swift
+/Users/josemariamarquez/Documents/JM/repositories/nope-core/nope-persistence/Sources/Extensions/ModelContext+FetchOrCreate.swift
+/Users/josemariamarquez/Documents/JM/repositories/nope-core/nope-persistence/Sources/Extensions/ModelContext+PerformAndSave.swift
+/Users/josemariamarquez/Documents/JM/repositories/nope-core/nope-persistence/Sources/PersistenceConfiguration.swift
+/Users/josemariamarquez/Documents/JM/repositories/nope-core/nope-persistence/Sources/PersistenceContainer.swift

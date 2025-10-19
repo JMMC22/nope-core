@@ -1,0 +1,12 @@
+{
+  "": {
+    "swift-dependencies": "/Users/josemariamarquez/Documents/JM/repositories/nope-core/.build/arm64-apple-macosx/debug/nope_core.build/master.swiftdeps"
+  },
+  "/Users/josemariamarquez/Documents/JM/repositories/nope-core/Sources/NopeCore.swift": {
+    "dependencies": "/Users/josemariamarquez/Documents/JM/repositories/nope-core/.build/arm64-apple-macosx/debug/nope_core.build/NopeCore.d",
+    "object": "/Users/josemariamarquez/Documents/JM/repositories/nope-core/.build/arm64-apple-macosx/debug/nope_core.build/NopeCore.swift.o",
+    "swiftmodule": "/Users/josemariamarquez/Documents/JM/repositories/nope-core/.build/arm64-apple-macosx/debug/nope_core.build/NopeCore~partial.swiftmodule",
+    "swift-dependencies": "/Users/josemariamarquez/Documents/JM/repositories/nope-core/.build/arm64-apple-macosx/debug/nope_core.build/NopeCore.swiftdeps",
+    "diagnostics": "/Users/josemariamarquez/Documents/JM/repositories/nope-core/.build/arm64-apple-macosx/debug/nope_core.build/NopeCore.dia"
+  }
+}

@@ -1,0 +1,54 @@
+{
+  "": {
+    "swift-dependencies": "/Users/josemariamarquez/Documents/JM/repositories/nope-core/.build/arm64-apple-macosx/debug/nope_notifications.build/master.swiftdeps"
+  },
+  "/Users/josemariamarquez/Documents/JM/repositories/nope-core/nope-notifications/Sources/Adapters/NotificationCenterProtocol.swift": {
+    "dependencies": "/Users/josemariamarquez/Documents/JM/repositories/nope-core/.build/arm64-apple-macosx/debug/nope_notifications.build/NotificationCenterProtocol.d",
+    "object": "/Users/josemariamarquez/Documents/JM/repositories/nope-core/.build/arm64-apple-macosx/debug/nope_notifications.build/NotificationCenterProtocol.swift.o",
+    "swiftmodule": "/Users/josemariamarquez/Documents/JM/repositories/nope-core/.build/arm64-apple-macosx/debug/nope_notifications.build/NotificationCenterProtocol~partial.swiftmodule",
+    "swift-dependencies": "/Users/josemariamarquez/Documents/JM/repositories/nope-core/.build/arm64-apple-macosx/debug/nope_notifications.build/NotificationCenterProtocol.swiftdeps",
+    "diagnostics": "/Users/josemariamarquez/Documents/JM/repositories/nope-core/.build/arm64-apple-macosx/debug/nope_notifications.build/NotificationCenterProtocol.dia"
+  },
+  "/Users/josemariamarquez/Documents/JM/repositories/nope-core/nope-notifications/Sources/Adapters/UNUserNotificationCenterAdapter.swift": {
+    "dependencies": "/Users/josemariamarquez/Documents/JM/repositories/nope-core/.build/arm64-apple-macosx/debug/nope_notifications.build/UNUserNotificationCenterAdapter.d",
+    "object": "/Users/josemariamarquez/Documents/JM/repositories/nope-core/.build/arm64-apple-macosx/debug/nope_notifications.build/UNUserNotificationCenterAdapter.swift.o",
+    "swiftmodule": "/Users/josemariamarquez/Documents/JM/repositories/nope-core/.build/arm64-apple-macosx/debug/nope_notifications.build/UNUserNotificationCenterAdapter~partial.swiftmodule",
+    "swift-dependencies": "/Users/josemariamarquez/Documents/JM/repositories/nope-core/.build/arm64-apple-macosx/debug/nope_notifications.build/UNUserNotificationCenterAdapter.swiftdeps",
+    "diagnostics": "/Users/josemariamarquez/Documents/JM/repositories/nope-core/.build/arm64-apple-macosx/debug/nope_notifications.build/UNUserNotificationCenterAdapter.dia"
+  },
+  "/Users/josemariamarquez/Documents/JM/repositories/nope-core/nope-notifications/Sources/Domain/NotificationContent.swift": {
+    "dependencies": "/Users/josemariamarquez/Documents/JM/repositories/nope-core/.build/arm64-apple-macosx/debug/nope_notifications.build/NotificationContent.d",
+    "object": "/Users/josemariamarquez/Documents/JM/repositories/nope-core/.build/arm64-apple-macosx/debug/nope_notifications.build/NotificationContent.swift.o",
+    "swiftmodule": "/Users/josemariamarquez/Documents/JM/repositories/nope-core/.build/arm64-apple-macosx/debug/nope_notifications.build/NotificationContent~partial.swiftmodule",
+    "swift-dependencies": "/Users/josemariamarquez/Documents/JM/repositories/nope-core/.build/arm64-apple-macosx/debug/nope_notifications.build/NotificationContent.swiftdeps",
+    "diagnostics": "/Users/josemariamarquez/Documents/JM/repositories/nope-core/.build/arm64-apple-macosx/debug/nope_notifications.build/NotificationContent.dia"
+  },
+  "/Users/josemariamarquez/Documents/JM/repositories/nope-core/nope-notifications/Sources/Domain/NotificationRequest.swift": {
+    "dependencies": "/Users/josemariamarquez/Documents/JM/repositories/nope-core/.build/arm64-apple-macosx/debug/nope_notifications.build/NotificationRequest.d",
+    "object": "/Users/josemariamarquez/Documents/JM/repositories/nope-core/.build/arm64-apple-macosx/debug/nope_notifications.build/NotificationRequest.swift.o",
+    "swiftmodule": "/Users/josemariamarquez/Documents/JM/repositories/nope-core/.build/arm64-apple-macosx/debug/nope_notifications.build/NotificationRequest~partial.swiftmodule",
+    "swift-dependencies": "/Users/josemariamarquez/Documents/JM/repositories/nope-core/.build/arm64-apple-macosx/debug/nope_notifications.build/NotificationRequest.swiftdeps",
+    "diagnostics": "/Users/josemariamarquez/Documents/JM/repositories/nope-core/.build/arm64-apple-macosx/debug/nope_notifications.build/NotificationRequest.dia"
+  },
+  "/Users/josemariamarquez/Documents/JM/repositories/nope-core/nope-notifications/Sources/Domain/NotificationSound.swift": {
+    "dependencies": "/Users/josemariamarquez/Documents/JM/repositories/nope-core/.build/arm64-apple-macosx/debug/nope_notifications.build/NotificationSound.d",
+    "object": "/Users/josemariamarquez/Documents/JM/repositories/nope-core/.build/arm64-apple-macosx/debug/nope_notifications.build/NotificationSound.swift.o",
+    "swiftmodule": "/Users/josemariamarquez/Documents/JM/repositories/nope-core/.build/arm64-apple-macosx/debug/nope_notifications.build/NotificationSound~partial.swiftmodule",
+    "swift-dependencies": "/Users/josemariamarquez/Documents/JM/repositories/nope-core/.build/arm64-apple-macosx/debug/nope_notifications.build/NotificationSound.swiftdeps",
+    "diagnostics": "/Users/josemariamarquez/Documents/JM/repositories/nope-core/.build/arm64-apple-macosx/debug/nope_notifications.build/NotificationSound.dia"
+  },
+  "/Users/josemariamarquez/Documents/JM/repositories/nope-core/nope-notifications/Sources/Domain/NotificationTrigger.swift": {
+    "dependencies": "/Users/josemariamarquez/Documents/JM/repositories/nope-core/.build/arm64-apple-macosx/debug/nope_notifications.build/NotificationTrigger.d",
+    "object": "/Users/josemariamarquez/Documents/JM/repositories/nope-core/.build/arm64-apple-macosx/debug/nope_notifications.build/NotificationTrigger.swift.o",
+    "swiftmodule": "/Users/josemariamarquez/Documents/JM/repositories/nope-core/.build/arm64-apple-macosx/debug/nope_notifications.build/NotificationTrigger~partial.swiftmodule",
+    "swift-dependencies": "/Users/josemariamarquez/Documents/JM/repositories/nope-core/.build/arm64-apple-macosx/debug/nope_notifications.build/NotificationTrigger.swiftdeps",
+    "diagnostics": "/Users/josemariamarquez/Documents/JM/repositories/nope-core/.build/arm64-apple-macosx/debug/nope_notifications.build/NotificationTrigger.dia"
+  },
+  "/Users/josemariamarquez/Documents/JM/repositories/nope-core/nope-notifications/Sources/LocalNotificationScheduler.swift": {
+    "dependencies": "/Users/josemariamarquez/Documents/JM/repositories/nope-core/.build/arm64-apple-macosx/debug/nope_notifications.build/LocalNotificationScheduler.d",
+    "object": "/Users/josemariamarquez/Documents/JM/repositories/nope-core/.build/arm64-apple-macosx/debug/nope_notifications.build/LocalNotificationScheduler.swift.o",
+    "swiftmodule": "/Users/josemariamarquez/Documents/JM/repositories/nope-core/.build/arm64-apple-macosx/debug/nope_notifications.build/LocalNotificationScheduler~partial.swiftmodule",
+    "swift-dependencies": "/Users/josemariamarquez/Documents/JM/repositories/nope-core/.build/arm64-apple-macosx/debug/nope_notifications.build/LocalNotificationScheduler.swiftdeps",
+    "diagnostics": "/Users/josemariamarquez/Documents/JM/repositories/nope-core/.build/arm64-apple-macosx/debug/nope_notifications.build/LocalNotificationScheduler.dia"
+  }
+}

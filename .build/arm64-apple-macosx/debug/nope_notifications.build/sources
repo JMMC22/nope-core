@@ -1,0 +1,7 @@
+/Users/josemariamarquez/Documents/JM/repositories/nope-core/nope-notifications/Sources/Adapters/NotificationCenterProtocol.swift
+/Users/josemariamarquez/Documents/JM/repositories/nope-core/nope-notifications/Sources/Adapters/UNUserNotificationCenterAdapter.swift
+/Users/josemariamarquez/Documents/JM/repositories/nope-core/nope-notifications/Sources/Domain/NotificationContent.swift
+/Users/josemariamarquez/Documents/JM/repositories/nope-core/nope-notifications/Sources/Domain/NotificationRequest.swift
+/Users/josemariamarquez/Documents/JM/repositories/nope-core/nope-notifications/Sources/Domain/NotificationSound.swift
+/Users/josemariamarquez/Documents/JM/repositories/nope-core/nope-notifications/Sources/Domain/NotificationTrigger.swift
+/Users/josemariamarquez/Documents/JM/repositories/nope-core/nope-notifications/Sources/LocalNotificationScheduler.swift

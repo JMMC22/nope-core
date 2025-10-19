@@ -1,0 +1,40 @@
+{
+  "": {
+    "swift-dependencies": "/Users/josemariamarquez/Documents/JM/repositories/nope-core/.build/arm64-apple-macosx/debug/nope_analytics_tests.build/master.swiftdeps"
+  },
+  "/Users/josemariamarquez/Documents/JM/repositories/nope-core/nope-analytics/Tests/AnalyticsManagerTests.swift": {
+    "dependencies": "/Users/josemariamarquez/Documents/JM/repositories/nope-core/.build/arm64-apple-macosx/debug/nope_analytics_tests.build/AnalyticsManagerTests.d",
+    "object": "/Users/josemariamarquez/Documents/JM/repositories/nope-core/.build/arm64-apple-macosx/debug/nope_analytics_tests.build/AnalyticsManagerTests.swift.o",
+    "swiftmodule": "/Users/josemariamarquez/Documents/JM/repositories/nope-core/.build/arm64-apple-macosx/debug/nope_analytics_tests.build/AnalyticsManagerTests~partial.swiftmodule",
+    "swift-dependencies": "/Users/josemariamarquez/Documents/JM/repositories/nope-core/.build/arm64-apple-macosx/debug/nope_analytics_tests.build/AnalyticsManagerTests.swiftdeps",
+    "diagnostics": "/Users/josemariamarquez/Documents/JM/repositories/nope-core/.build/arm64-apple-macosx/debug/nope_analytics_tests.build/AnalyticsManagerTests.dia"
+  },
+  "/Users/josemariamarquez/Documents/JM/repositories/nope-core/nope-analytics/Tests/Fixtures/AnalyticsAction+Fixtures.swift": {
+    "dependencies": "/Users/josemariamarquez/Documents/JM/repositories/nope-core/.build/arm64-apple-macosx/debug/nope_analytics_tests.build/AnalyticsAction+Fixtures.d",
+    "object": "/Users/josemariamarquez/Documents/JM/repositories/nope-core/.build/arm64-apple-macosx/debug/nope_analytics_tests.build/AnalyticsAction+Fixtures.swift.o",
+    "swiftmodule": "/Users/josemariamarquez/Documents/JM/repositories/nope-core/.build/arm64-apple-macosx/debug/nope_analytics_tests.build/AnalyticsAction+Fixtures~partial.swiftmodule",
+    "swift-dependencies": "/Users/josemariamarquez/Documents/JM/repositories/nope-core/.build/arm64-apple-macosx/debug/nope_analytics_tests.build/AnalyticsAction+Fixtures.swiftdeps",
+    "diagnostics": "/Users/josemariamarquez/Documents/JM/repositories/nope-core/.build/arm64-apple-macosx/debug/nope_analytics_tests.build/AnalyticsAction+Fixtures.dia"
+  },
+  "/Users/josemariamarquez/Documents/JM/repositories/nope-core/nope-analytics/Tests/Fixtures/AnalyticsScreen+Fixtures.swift": {
+    "dependencies": "/Users/josemariamarquez/Documents/JM/repositories/nope-core/.build/arm64-apple-macosx/debug/nope_analytics_tests.build/AnalyticsScreen+Fixtures.d",
+    "object": "/Users/josemariamarquez/Documents/JM/repositories/nope-core/.build/arm64-apple-macosx/debug/nope_analytics_tests.build/AnalyticsScreen+Fixtures.swift.o",
+    "swiftmodule": "/Users/josemariamarquez/Documents/JM/repositories/nope-core/.build/arm64-apple-macosx/debug/nope_analytics_tests.build/AnalyticsScreen+Fixtures~partial.swiftmodule",
+    "swift-dependencies": "/Users/josemariamarquez/Documents/JM/repositories/nope-core/.build/arm64-apple-macosx/debug/nope_analytics_tests.build/AnalyticsScreen+Fixtures.swiftdeps",
+    "diagnostics": "/Users/josemariamarquez/Documents/JM/repositories/nope-core/.build/arm64-apple-macosx/debug/nope_analytics_tests.build/AnalyticsScreen+Fixtures.dia"
+  },
+  "/Users/josemariamarquez/Documents/JM/repositories/nope-core/nope-analytics/Tests/Fixtures/Dictionary+Fixtures.swift": {
+    "dependencies": "/Users/josemariamarquez/Documents/JM/repositories/nope-core/.build/arm64-apple-macosx/debug/nope_analytics_tests.build/Dictionary+Fixtures.d",
+    "object": "/Users/josemariamarquez/Documents/JM/repositories/nope-core/.build/arm64-apple-macosx/debug/nope_analytics_tests.build/Dictionary+Fixtures.swift.o",
+    "swiftmodule": "/Users/josemariamarquez/Documents/JM/repositories/nope-core/.build/arm64-apple-macosx/debug/nope_analytics_tests.build/Dictionary+Fixtures~partial.swiftmodule",
+    "swift-dependencies": "/Users/josemariamarquez/Documents/JM/repositories/nope-core/.build/arm64-apple-macosx/debug/nope_analytics_tests.build/Dictionary+Fixtures.swiftdeps",
+    "diagnostics": "/Users/josemariamarquez/Documents/JM/repositories/nope-core/.build/arm64-apple-macosx/debug/nope_analytics_tests.build/Dictionary+Fixtures.dia"
+  },
+  "/Users/josemariamarquez/Documents/JM/repositories/nope-core/nope-analytics/Tests/Mocks/MockAnalyticsService.swift": {
+    "dependencies": "/Users/josemariamarquez/Documents/JM/repositories/nope-core/.build/arm64-apple-macosx/debug/nope_analytics_tests.build/MockAnalyticsService.d",
+    "object": "/Users/josemariamarquez/Documents/JM/repositories/nope-core/.build/arm64-apple-macosx/debug/nope_analytics_tests.build/MockAnalyticsService.swift.o",
+    "swiftmodule": "/Users/josemariamarquez/Documents/JM/repositories/nope-core/.build/arm64-apple-macosx/debug/nope_analytics_tests.build/MockAnalyticsService~partial.swiftmodule",
+    "swift-dependencies": "/Users/josemariamarquez/Documents/JM/repositories/nope-core/.build/arm64-apple-macosx/debug/nope_analytics_tests.build/MockAnalyticsService.swiftdeps",
+    "diagnostics": "/Users/josemariamarquez/Documents/JM/repositories/nope-core/.build/arm64-apple-macosx/debug/nope_analytics_tests.build/MockAnalyticsService.dia"
+  }
+}
